@@ -1,0 +1,40 @@
+.navone{
+    height: 120px;
+    background-color: $color-one;
+}
+
+.navtwo{
+    height: 40px;
+    background-color: $color-two;
+    &_link{
+        font-family: $font-text;
+        color: $color-one;
+        &:hover{
+            color: $special-color;
+            }
+        &::after{
+            content: "|";
+            margin-left: 15px;
+        }
+    }
+    &_list{
+        align-self: center;
+    } 
+}
+
+.nav_icon{
+    width: 26px;
+    height: 26px;
+    margin-left: 10px;
+}
+
+.nav_logos{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.search_input{
+    width: 500px;
+    background-color: rgb(241, 239, 239);
+    border-radius: 20px;
+}

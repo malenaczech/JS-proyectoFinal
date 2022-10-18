@@ -1,0 +1,33 @@
+/* LETRAS */
+/* COLORS */
+.navone {
+  height: 120px;
+  background-color: white; }
+
+.navtwo {
+  height: 40px;
+  background-color: #020202; }
+  .navtwo_link {
+    font-family: "Roboto", sans-serif;
+    color: white; }
+    .navtwo_link:hover {
+      color: #f2c7c7; }
+    .navtwo_link::after {
+      content: "|";
+      margin-left: 15px; }
+  .navtwo_list {
+    align-self: center; }
+
+.nav_icon {
+  width: 26px;
+  height: 26px;
+  margin-left: 10px; }
+
+.nav_logos {
+  display: flex;
+  justify-content: flex-end; }
+
+.search_input {
+  width: 500px;
+  background-color: #f1efef;
+  border-radius: 20px; }

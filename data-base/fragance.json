@@ -1,0 +1,259 @@
+[
+    {
+        "id":"111", 
+        "brand":"Lancome", 
+        "name":"IDOLE EDP - 50ML", 
+        "price":"25000",
+        "img": "../resources/idole",
+        "categoria": "perfume"
+    },
+    {
+        "id": "112", 
+        "brand": "Gucci", 
+        "name":"BLOOM EDP - 50ML", 
+        "price": "27000",
+        "img": "../resources/bloom",
+        "categoria": "perfume"
+    },
+    {
+        "id": "113", 
+        "brand": "Paco Rabanne", 
+        "name": "OLYMPEA EDP - 80ML", 
+        "price": "24000",
+        "img": "../resources/olympea",
+        "categoria": "perfume"
+    },
+    {
+        "id":"114", 
+        "brand": "Nina Ricci", 
+        "name":"NINA EDP - 50ML", 
+        "price": "15000",
+        "img": "../resources/nina",
+        "categoria": "perfume"
+    },
+    {
+        "id":"115",
+        "brand":"Nina Ricci", 
+        "name": "LUNA EDP - 50ML", 
+        "price": "15800",
+        "img": "../resources/luna",
+        "categoria": "perfume"
+    },
+    {
+        "id":"116", 
+        "brand":"Nina Ricci", 
+        "name":"NINA ROUGE EDP - 80ML", 
+        "price": "18000",
+        "img": "../resources/ninaRouge",
+        "categoria": "perfume"
+    },
+
+    {
+        "id":"117", 
+        "brand":"Givenchy", 
+        "name":"L'INTERDIT EDP - 80ML", 
+        "price": "22000",
+        "img": "../resources/linterdit",
+        "categoria": "perfume"
+    },
+    {
+        "id":"118", 
+        "brand":"Givenchy", 
+        "name":"L'INTERDIT ROUGE EDP - 80ml", 
+        "price": "24000",
+        "img": "../resources/linterditRouge",
+        "categoria": "perfume"
+    },
+    {
+        "id":"119", 
+        "brand":"Givenchy", 
+        "name":"IRRESISTIBLE EDP - 80ml", 
+        "price": "27000",
+        "img": "../resources/irresistible",
+        "categoria": "perfume"
+    },
+    {
+        "id":"120", 
+        "brand": "Mugler", 
+        "name": "ALIEN EDP - 90ml", 
+        "price": "36000",
+        "img": "../resources/alien",
+        "categoria": "perfume"
+    },
+    {
+        "id":"121", 
+        "brand": "Mugler", 
+        "name": "ALIEN GODDESS EDP - 90ml", 
+        "price": "36000",
+        "img": "../resources/alienGod",
+        "categoria": "perfume"
+    },
+    {
+        "id":"122", 
+        "brand":"Mugler", 
+        "name":"ANGEL EDP - 90ml", 
+        "price": "36000",
+        "img": "../resources/angel",
+        "categoria": "perfume"
+    },
+    {
+        "id":"123", 
+        "brand":"YSL", 
+        "name": "LIBRE EDP - 80ml", 
+        "price": "29000",
+        "img": "../resources/ysl",
+        "categoria": "perfume"
+    },
+    {
+        "id":"124", 
+        "brand":"YSL", 
+        "name": "BLACK OPIUM EDP - 80ml", 
+        "price": "29000",
+        "img": "../resources/blackOpium",
+        "categoria": "perfume"
+    },
+    {
+        "id":"125", 
+        "brand":"Versace", 
+        "name": "BRIGHT CRYSTAL EDP - 50ml", 
+        "price": "27000",
+        "img": "../resources/brightCrystal",
+        "categoria": "perfume"
+    },
+    {
+        "id":"126", 
+        "brand":"Carolina Herrera", 
+        "name": "212 VIP ROSE EDP - 80ml", 
+        "price": "30000",
+        "img": "../resources/dosdoceRose",
+        "categoria": "perfume"
+    },
+    {
+        "id":"127", 
+        "brand":"Carolina Herrera", 
+        "name": "GOOD GIRL SUPREME EDP - 80ml", 
+        "price": "25000",
+        "img": "../resources/goodGirl",
+        "categoria": "perfume"
+    },
+    {
+        "id":"128", 
+        "brand":"Dior", 
+        "name": "J'ADORE EDP - 80ml", 
+        "price": "30000",
+        "img": "../resources/jadore",
+        "categoria": "perfume"
+    },
+    {
+        "id":"129", 
+        "brand":"Paco Rabanne", 
+        "name": "LADY MILLION EMPIRE EDP - 50ml", 
+        "price": "25000",
+        "img": "../resources/ladyMillionEmpire",
+        "categoria": "perfume"
+    },
+    {
+        "id":"130", 
+        "brand":"Paco Rabanne", 
+        "name": "PURE XS EDP - 50ml", 
+        "price": "27000",
+        "img": "../resources/pureXS",
+        "categoria": "perfume"
+    },
+    {
+        "id":"131", 
+        "brand":"Lancome", 
+        "name": "LA VIE EST BELLE EDP - 80ml", 
+        "price": "30000",
+        "img": "../resources/laVie",
+        "categoria": "perfume"
+    },
+    {
+        "id":"132", 
+        "brand":"Lancome", 
+        "name": "TRESORE LUMINEUSE EDP - 80ml", 
+        "price": "28000",
+        "img": "../resources/tresoreLumi",
+        "categoria": "perfume"
+    },
+    {
+        "id":"133", 
+        "brand":"Dior", 
+        "name": "MISS DIOR - 80ml", 
+        "price": "31000",
+        "img": "../resources/missDior",
+        "categoria": "perfume"
+    },
+    {
+        "id":"134", 
+        "brand":"Lolita Lempicka", 
+        "name": "MON EAU EDP - 80ml", 
+        "price": "20000",
+        "img": "../resources/monEau",
+        "categoria": "perfume"
+    },
+    {
+        "id":"135", 
+        "brand":"Jean Paul Gaultier", 
+        "name": "SCANDAL EDP - 80ml", 
+        "price": "27000",
+        "img": "../resources/scandal",
+        "categoria": "perfume"
+    },
+    {
+        "id":"136", 
+        "brand":"Lolita Lempicka", 
+        "name": "MON PREMIER EDP - 80ml", 
+        "price": "20000",
+        "img": "../resources/monPremier",
+        "categoria": "perfume"
+    },
+    {
+        "id":"137", 
+        "brand":"Giorgio Armani", 
+        "name": "MY WAY EDP - 80ml", 
+        "price": "28000",
+        "img": "../resources/mayWay",
+        "categoria": "perfume"
+    },
+    {
+        "id":"138", 
+        "brand":"Giorgio Armani", 
+        "name": "SI EDP - 80ml", 
+        "price": "30000",
+        "img": "../resources/si",
+        "categoria": "perfume"
+    },
+    {
+        "id":"139", 
+        "brand":"Giorgio Armani", 
+        "name": "IN LOVE WITH YOU EDP - 80ml", 
+        "price": "29000",
+        "img": "../resources/withYou",
+        "categoria": "perfume"
+    },
+    {
+        "id":"140", 
+        "brand":"Dolce & Gabbana", 
+        "name": "THE ONLY ONE EDP - 80ml", 
+        "price": "31000",
+        "img": "../resources/onlyOne",
+        "categoria": "perfume"
+    },
+    {
+        "id":"141", 
+        "brand":"Marc Jacobs", 
+        "name": "PERFECT EDP - 80ml", 
+        "price": "25000",
+        "img": "../resources/perfect",
+        "categoria": "perfume"
+    },
+    {
+        "id":"142", 
+        "brand":"Marc Jacobs", 
+        "name": "DAISY EDP - 80ml", 
+        "price": "25000",
+        "img": "../resources/daisy",
+        "categoria": "perfume"
+    }
+]
