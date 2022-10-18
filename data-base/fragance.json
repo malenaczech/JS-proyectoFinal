@@ -5,7 +5,8 @@
         "name":"IDOLE EDP - 50ML", 
         "price":"25000",
         "img": "../resources/idole",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"recommended"
     },
     {
         "id": "112", 
@@ -13,7 +14,8 @@
         "name":"BLOOM EDP - 50ML", 
         "price": "27000",
         "img": "../resources/bloom",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"recommended"
     },
     {
         "id": "113", 
@@ -21,7 +23,8 @@
         "name": "OLYMPEA EDP - 80ML", 
         "price": "24000",
         "img": "../resources/olympea",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"not"
     },
     {
         "id":"114", 
@@ -29,7 +32,8 @@
         "name":"NINA EDP - 50ML", 
         "price": "15000",
         "img": "../resources/nina",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"not"
     },
     {
         "id":"115",
@@ -37,7 +41,8 @@
         "name": "LUNA EDP - 50ML", 
         "price": "15800",
         "img": "../resources/luna",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"not"
     },
     {
         "id":"116", 
@@ -45,7 +50,8 @@
         "name":"NINA ROUGE EDP - 80ML", 
         "price": "18000",
         "img": "../resources/ninaRouge",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"not"
     },
 
     {
@@ -54,7 +60,8 @@
         "name":"L'INTERDIT EDP - 80ML", 
         "price": "22000",
         "img": "../resources/linterdit",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"not"
     },
     {
         "id":"118", 
@@ -62,7 +69,8 @@
         "name":"L'INTERDIT ROUGE EDP - 80ml", 
         "price": "24000",
         "img": "../resources/linterditRouge",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"recommended"
     },
     {
         "id":"119", 
@@ -70,7 +78,8 @@
         "name":"IRRESISTIBLE EDP - 80ml", 
         "price": "27000",
         "img": "../resources/irresistible",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"not"
     },
     {
         "id":"120", 
@@ -78,7 +87,8 @@
         "name": "ALIEN EDP - 90ml", 
         "price": "36000",
         "img": "../resources/alien",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"not"
     },
     {
         "id":"121", 
@@ -86,7 +96,8 @@
         "name": "ALIEN GODDESS EDP - 90ml", 
         "price": "36000",
         "img": "../resources/alienGod",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"not"
     },
     {
         "id":"122", 
@@ -94,7 +105,8 @@
         "name":"ANGEL EDP - 90ml", 
         "price": "36000",
         "img": "../resources/angel",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"recommended"
     },
     {
         "id":"123", 
@@ -102,7 +114,8 @@
         "name": "LIBRE EDP - 80ml", 
         "price": "29000",
         "img": "../resources/ysl",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"not"
     },
     {
         "id":"124", 
@@ -110,7 +123,8 @@
         "name": "BLACK OPIUM EDP - 80ml", 
         "price": "29000",
         "img": "../resources/blackOpium",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"not"
     },
     {
         "id":"125", 
@@ -118,7 +132,8 @@
         "name": "BRIGHT CRYSTAL EDP - 50ml", 
         "price": "27000",
         "img": "../resources/brightCrystal",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"recommended"
     },
     {
         "id":"126", 
@@ -126,7 +141,8 @@
         "name": "212 VIP ROSE EDP - 80ml", 
         "price": "30000",
         "img": "../resources/dosdoceRose",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"not"
     },
     {
         "id":"127", 
@@ -134,7 +150,8 @@
         "name": "GOOD GIRL SUPREME EDP - 80ml", 
         "price": "25000",
         "img": "../resources/goodGirl",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"not"
     },
     {
         "id":"128", 
@@ -142,7 +159,8 @@
         "name": "J'ADORE EDP - 80ml", 
         "price": "30000",
         "img": "../resources/jadore",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"not"
     },
     {
         "id":"129", 
@@ -150,7 +168,8 @@
         "name": "LADY MILLION EMPIRE EDP - 50ml", 
         "price": "25000",
         "img": "../resources/ladyMillionEmpire",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"not"
     },
     {
         "id":"130", 
@@ -158,7 +177,8 @@
         "name": "PURE XS EDP - 50ml", 
         "price": "27000",
         "img": "../resources/pureXS",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"recommended"
     },
     {
         "id":"131", 
@@ -166,7 +186,8 @@
         "name": "LA VIE EST BELLE EDP - 80ml", 
         "price": "30000",
         "img": "../resources/laVie",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"not"
     },
     {
         "id":"132", 
@@ -174,7 +195,8 @@
         "name": "TRESORE LUMINEUSE EDP - 80ml", 
         "price": "28000",
         "img": "../resources/tresoreLumi",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"recommended"
     },
     {
         "id":"133", 
@@ -182,7 +204,8 @@
         "name": "MISS DIOR - 80ml", 
         "price": "31000",
         "img": "../resources/missDior",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"recommended"
     },
     {
         "id":"134", 
@@ -190,7 +213,8 @@
         "name": "MON EAU EDP - 80ml", 
         "price": "20000",
         "img": "../resources/monEau",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"recommended"
     },
     {
         "id":"135", 
@@ -198,7 +222,8 @@
         "name": "SCANDAL EDP - 80ml", 
         "price": "27000",
         "img": "../resources/scandal",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"not"
     },
     {
         "id":"136", 
@@ -206,7 +231,8 @@
         "name": "MON PREMIER EDP - 80ml", 
         "price": "20000",
         "img": "../resources/monPremier",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"not"
     },
     {
         "id":"137", 
@@ -214,7 +240,8 @@
         "name": "MY WAY EDP - 80ml", 
         "price": "28000",
         "img": "../resources/mayWay",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"recommended"
     },
     {
         "id":"138", 
@@ -222,7 +249,8 @@
         "name": "SI EDP - 80ml", 
         "price": "30000",
         "img": "../resources/si",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"recommended"
     },
     {
         "id":"139", 
@@ -230,7 +258,8 @@
         "name": "IN LOVE WITH YOU EDP - 80ml", 
         "price": "29000",
         "img": "../resources/withYou",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"not"
     },
     {
         "id":"140", 
@@ -238,7 +267,8 @@
         "name": "THE ONLY ONE EDP - 80ml", 
         "price": "31000",
         "img": "../resources/onlyOne",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"not"
     },
     {
         "id":"141", 
@@ -246,7 +276,8 @@
         "name": "PERFECT EDP - 80ml", 
         "price": "25000",
         "img": "../resources/perfect",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"not"
     },
     {
         "id":"142", 
@@ -254,6 +285,7 @@
         "name": "DAISY EDP - 80ml", 
         "price": "25000",
         "img": "../resources/daisy",
-        "categoria": "perfume"
+        "category": "perfume",
+        "add":"recommended"
     }
 ]

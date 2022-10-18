@@ -1,0 +1,30 @@
+
+.index{
+    display: flex;
+    background-color: $color-two;
+    list-style: none;
+}
+
+ul{
+    list-style: none;
+    padding: 10px;
+    margin: 15px;
+}
+
+footer a{
+    font-family: $font-text;
+    font-size: 14px;
+    text-decoration: none;
+    color: $color-one;
+    margin: 15px;
+    padding: 15px;
+    &:hover{
+        color: $special-color;
+    }
+}
+
+.social{
+    display: flex;
+    flex-direction: column;
+    align-content: flex-end;
+}

@@ -1,3 +1,7 @@
+* {
+  margin: 0px;
+  padding: 0px; }
+
 /* LETRAS */
 /* COLORS */
 .navone {
@@ -5,18 +9,18 @@
   background-color: white; }
 
 .navtwo {
-  height: 40px;
-  background-color: #020202; }
+  height: 50px;
+  background-color: black; }
   .navtwo_link {
     font-family: "Roboto", sans-serif;
-    color: white; }
+    color: white;
+    margin-bottom: 10px;
+    text-align: center; }
     .navtwo_link:hover {
-      color: #f2c7c7; }
+      color: #e5cccc; }
     .navtwo_link::after {
       content: "|";
       margin-left: 15px; }
-  .navtwo_list {
-    align-self: center; }
 
 .nav_icon {
   width: 26px;
@@ -31,3 +35,86 @@
   width: 500px;
   background-color: #f1efef;
   border-radius: 20px; }
+
+.carrousel {
+  margin-top: 3px; }
+
+.cardlink {
+  display: flex; }
+  .cardlink_img {
+    width: 606px;
+    height: 400px; }
+
+.card {
+  border: #f1efef solid 1px;
+  border-radius: 10px;
+  width: 200;
+  height: 250;
+  margin: 20px; }
+  .card:hover {
+    box-shadow: 0px 0px 5px 3px #f1efef; }
+  .card_img {
+    width: 150px;
+    height: 130px;
+    margin-top: 10px;
+    margin-left: 25px; }
+  .card_brand {
+    margin-top: -15px;
+    font-size: 20px;
+    text-align: center; }
+  .card_name {
+    text-align: center; }
+  .card_price {
+    font-weight: bold;
+    margin-top: -10px;
+    text-align: center; }
+  .card_btn {
+    font-size: 12px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    margin-left: 18px; }
+
+.prod_rec {
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+  padding: 5px;
+  height: 40px;
+  align-self: center;
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 18px;
+  color: white;
+  background-color: black; }
+
+.see_cart {
+  font-size: 18px;
+  border-radius: 26px;
+  margin-left: 18px;
+  width: 300px;
+  margin-left: 230px; }
+
+.index {
+  display: flex;
+  background-color: black;
+  list-style: none; }
+
+ul {
+  list-style: none;
+  padding: 10px;
+  margin: 15px; }
+
+footer a {
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  text-decoration: none;
+  color: white;
+  margin: 15px;
+  padding: 15px; }
+  footer a:hover {
+    color: #e5cccc; }
+
+.social {
+  display: flex;
+  flex-direction: column;
+  align-content: flex-end; }

@@ -1,0 +1,57 @@
+.card{
+    border: $color-three solid 1px;
+    border-radius: 10px;
+    width: 200;
+    height: 250;
+    margin: 20px;
+    &:hover{
+        box-shadow: 0px 0px 5px 3px $color-three;
+    }
+    &_img{
+        width: 150px;
+        height: 130px;
+        margin-top: 10px;
+        margin-left: 25px;
+    }
+    &_brand{
+        margin-top: -15px;
+        font-size: 20px;
+        text-align: center;
+    }
+    &_name{
+        text-align: center;
+    }
+    &_price{
+        font-weight: bold;
+        margin-top: -10px;
+        text-align: center;
+    }
+    &_btn{
+        font-size: 12px;
+        background-color: $color-two;
+        color: $color-one;
+        border-radius: 20px;
+        margin-left: 18px;
+    }
+}
+
+.prod_rec{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    padding: 5px;
+    height: 40px;
+    align-self: center;
+    font-family: $font-principal;
+    font-size: 18px;
+    color: $color-one;
+    background-color: $color-two;
+}
+
+.see_cart{
+    font-size: 18px;
+    border-radius: 26px;
+    margin-left: 18px;
+    width: 300px;
+    margin-left: 230px;
+}

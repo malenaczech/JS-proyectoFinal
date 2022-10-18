@@ -56,19 +56,26 @@
         </nav>
     </header>
     <main>
-        <section class="card" id="cardMakeup">
-            <h1>Maquillaje</h1>
-            <div class="card_product">
-                <img class="card_img" src="resources/daisy.jpg" alt="Perfume daisy">
-                <h2 class="card_brand">Marc Jacobs</h2>
-                <p class="card_name">DAISY EDP - 80ML</p>
-                <h3 class="card_price">$25000</h3>
+        <section class="prod_card">
+            <h1 class="prod_rec">MAQUILLAJE</h1>
+            <div class="container text-center">
+                <div class="row">
+                    <div class="col col-3" id="makeUp">
+                        <div class="card" style="width: 13rem;">
+                            <img src="../resources/daisy.jpg" class="card-img-top card_img" alt="...">
+                            <div class="card-body card_product">
+                                <h5 class="card-title card_brand">Marc Jacobs</h5>
+                                <p class="card-text card_name">DAISY EDP - 80 ML</p>
+                                <p class="card-text card_price">$28000</p>
+                                <button class="btn card_btn" id="btnCart">AÑADIR AL CARRITO</button>
+                            </div>
+                        </div>
+                    </div>
             </div>
         </section>
         <section class="see_cart">
-            <a href="cart.html"><button class="button-corn" id="viewCart">VER CARRITO</button></a>
+            <a href="cart.html"><button class="btn card_btn see_cart" id="btnSeeCart">VER CARRITO</button></a>
         </section>
-    </main>
     <footer>
 
     </footer>
