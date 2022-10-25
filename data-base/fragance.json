@@ -4,7 +4,7 @@
         "brand":"Lancome", 
         "name":"IDOLE EDP - 50ML", 
         "price":"25000",
-        "img": "../resources/idole",
+        "img": "../resources/idole.jpg",
         "category": "perfume",
         "add":"recommended"
     },
@@ -13,7 +13,7 @@
         "brand": "Gucci", 
         "name":"BLOOM EDP - 50ML", 
         "price": "27000",
-        "img": "../resources/bloom",
+        "img": "../resources/bloom.jpg",
         "category": "perfume",
         "add":"recommended"
     },
@@ -22,7 +22,7 @@
         "brand": "Paco Rabanne", 
         "name": "OLYMPEA EDP - 80ML", 
         "price": "24000",
-        "img": "../resources/olympea",
+        "img": "../resources/olympea.jpg",
         "category": "perfume",
         "add":"not"
     },
@@ -31,7 +31,7 @@
         "brand": "Nina Ricci", 
         "name":"NINA EDP - 50ML", 
         "price": "15000",
-        "img": "../resources/nina",
+        "img": "../resources/nina.jpg",
         "category": "perfume",
         "add":"not"
     },
@@ -40,7 +40,7 @@
         "brand":"Nina Ricci", 
         "name": "LUNA EDP - 50ML", 
         "price": "15800",
-        "img": "../resources/luna",
+        "img": "../resources/luna.jpg",
         "category": "perfume",
         "add":"not"
     },
@@ -49,7 +49,7 @@
         "brand":"Nina Ricci", 
         "name":"NINA ROUGE EDP - 80ML", 
         "price": "18000",
-        "img": "../resources/ninaRouge",
+        "img": "../resources/ninaRouge.jpg",
         "category": "perfume",
         "add":"not"
     },
@@ -59,7 +59,7 @@
         "brand":"Givenchy", 
         "name":"L'INTERDIT EDP - 80ML", 
         "price": "22000",
-        "img": "../resources/linterdit",
+        "img": "../resources/linterdit.jpg",
         "category": "perfume",
         "add":"not"
     },
@@ -68,7 +68,7 @@
         "brand":"Givenchy", 
         "name":"L'INTERDIT ROUGE EDP - 80ml", 
         "price": "24000",
-        "img": "../resources/linterditRouge",
+        "img": "../resources/linterditRouge.jpg",
         "category": "perfume",
         "add":"recommended"
     },
@@ -77,7 +77,7 @@
         "brand":"Givenchy", 
         "name":"IRRESISTIBLE EDP - 80ml", 
         "price": "27000",
-        "img": "../resources/irresistible",
+        "img": "../resources/irresistible.jpg",
         "category": "perfume",
         "add":"not"
     },
@@ -86,7 +86,7 @@
         "brand": "Mugler", 
         "name": "ALIEN EDP - 90ml", 
         "price": "36000",
-        "img": "../resources/alien",
+        "img": "../resources/alien.jpg",
         "category": "perfume",
         "add":"not"
     },
@@ -95,7 +95,7 @@
         "brand": "Mugler", 
         "name": "ALIEN GODDESS EDP - 90ml", 
         "price": "36000",
-        "img": "../resources/alienGod",
+        "img": "../resources/alienGod.jpg",
         "category": "perfume",
         "add":"not"
     },
@@ -104,7 +104,7 @@
         "brand":"Mugler", 
         "name":"ANGEL EDP - 90ml", 
         "price": "36000",
-        "img": "../resources/angel",
+        "img": "../resources/angel.jpg",
         "category": "perfume",
         "add":"recommended"
     },
@@ -113,7 +113,7 @@
         "brand":"YSL", 
         "name": "LIBRE EDP - 80ml", 
         "price": "29000",
-        "img": "../resources/ysl",
+        "img": "../resources/ysl.jpg",
         "category": "perfume",
         "add":"not"
     },
@@ -122,7 +122,7 @@
         "brand":"YSL", 
         "name": "BLACK OPIUM EDP - 80ml", 
         "price": "29000",
-        "img": "../resources/blackOpium",
+        "img": "../resources/blackOpium.png",
         "category": "perfume",
         "add":"not"
     },
@@ -131,7 +131,7 @@
         "brand":"Versace", 
         "name": "BRIGHT CRYSTAL EDP - 50ml", 
         "price": "27000",
-        "img": "../resources/brightCrystal",
+        "img": "../resources/brightCrystal.jpg",
         "category": "perfume",
         "add":"recommended"
     },
@@ -140,7 +140,7 @@
         "brand":"Carolina Herrera", 
         "name": "212 VIP ROSE EDP - 80ml", 
         "price": "30000",
-        "img": "../resources/dosdoceRose",
+        "img": "../resources/dosdoceRose.png",
         "category": "perfume",
         "add":"not"
     },
@@ -149,7 +149,7 @@
         "brand":"Carolina Herrera", 
         "name": "GOOD GIRL SUPREME EDP - 80ml", 
         "price": "25000",
-        "img": "../resources/goodGirl",
+        "img": "../resources/goodGirl.jpg",
         "category": "perfume",
         "add":"not"
     },
@@ -158,7 +158,7 @@
         "brand":"Dior", 
         "name": "J'ADORE EDP - 80ml", 
         "price": "30000",
-        "img": "../resources/jadore",
+        "img": "../resources/jadore.jpg",
         "category": "perfume",
         "add":"not"
     },
@@ -167,7 +167,7 @@
         "brand":"Paco Rabanne", 
         "name": "LADY MILLION EMPIRE EDP - 50ml", 
         "price": "25000",
-        "img": "../resources/ladyMillionEmpire",
+        "img": "../resources/ladyMillionEmpire.jpg",
         "category": "perfume",
         "add":"not"
     },
@@ -176,7 +176,7 @@
         "brand":"Paco Rabanne", 
         "name": "PURE XS EDP - 50ml", 
         "price": "27000",
-        "img": "../resources/pureXS",
+        "img": "../resources/pureXS.jpg",
         "category": "perfume",
         "add":"recommended"
     },
@@ -185,7 +185,7 @@
         "brand":"Lancome", 
         "name": "LA VIE EST BELLE EDP - 80ml", 
         "price": "30000",
-        "img": "../resources/laVie",
+        "img": "../resources/laVie.jpg",
         "category": "perfume",
         "add":"not"
     },
@@ -194,7 +194,7 @@
         "brand":"Lancome", 
         "name": "TRESORE LUMINEUSE EDP - 80ml", 
         "price": "28000",
-        "img": "../resources/tresoreLumi",
+        "img": "../resources/tresoreLumi.jpg",
         "category": "perfume",
         "add":"recommended"
     },
@@ -203,7 +203,7 @@
         "brand":"Dior", 
         "name": "MISS DIOR - 80ml", 
         "price": "31000",
-        "img": "../resources/missDior",
+        "img": "../resources/missDior.jpg",
         "category": "perfume",
         "add":"recommended"
     },
@@ -212,7 +212,7 @@
         "brand":"Lolita Lempicka", 
         "name": "MON EAU EDP - 80ml", 
         "price": "20000",
-        "img": "../resources/monEau",
+        "img": "../resources/monEau.jpg",
         "category": "perfume",
         "add":"recommended"
     },
@@ -221,7 +221,7 @@
         "brand":"Jean Paul Gaultier", 
         "name": "SCANDAL EDP - 80ml", 
         "price": "27000",
-        "img": "../resources/scandal",
+        "img": "../resources/scandal.jpg",
         "category": "perfume",
         "add":"not"
     },
@@ -230,7 +230,7 @@
         "brand":"Lolita Lempicka", 
         "name": "MON PREMIER EDP - 80ml", 
         "price": "20000",
-        "img": "../resources/monPremier",
+        "img": "../resources/monPremier.jpg",
         "category": "perfume",
         "add":"not"
     },
@@ -239,7 +239,7 @@
         "brand":"Giorgio Armani", 
         "name": "MY WAY EDP - 80ml", 
         "price": "28000",
-        "img": "../resources/mayWay",
+        "img": "../resources/myWay.jpg",
         "category": "perfume",
         "add":"recommended"
     },
@@ -248,7 +248,7 @@
         "brand":"Giorgio Armani", 
         "name": "SI EDP - 80ml", 
         "price": "30000",
-        "img": "../resources/si",
+        "img": "../resources/si.jpg",
         "category": "perfume",
         "add":"recommended"
     },
@@ -257,7 +257,7 @@
         "brand":"Giorgio Armani", 
         "name": "IN LOVE WITH YOU EDP - 80ml", 
         "price": "29000",
-        "img": "../resources/withYou",
+        "img": "../resources/withYou.jpg",
         "category": "perfume",
         "add":"not"
     },
@@ -266,7 +266,7 @@
         "brand":"Dolce & Gabbana", 
         "name": "THE ONLY ONE EDP - 80ml", 
         "price": "31000",
-        "img": "../resources/onlyOne",
+        "img": "../resources/onlyOne.jpg",
         "category": "perfume",
         "add":"not"
     },
@@ -275,7 +275,7 @@
         "brand":"Marc Jacobs", 
         "name": "PERFECT EDP - 80ml", 
         "price": "25000",
-        "img": "../resources/perfect",
+        "img": "../resources/perfect.jpg",
         "category": "perfume",
         "add":"not"
     },
@@ -284,7 +284,7 @@
         "brand":"Marc Jacobs", 
         "name": "DAISY EDP - 80ml", 
         "price": "25000",
-        "img": "../resources/daisy",
+        "img": "../resources/daisy.jpg",
         "category": "perfume",
         "add":"recommended"
     }

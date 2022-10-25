@@ -11,7 +11,12 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400&family=Roboto:wght@300&display=swap" rel="stylesheet">
     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-    <script defer src="../js/main.js"></script>
+    <script defer src="../js/class.js"></script>
+    <script defer src="../js/main-two.js"></script>
+
+    
+    
+
     <title>Document</title>
 </head>
 <body>
@@ -33,9 +38,9 @@
         <!-- MENU -->
         <nav class="navbar navbar-expand-lg nav-fondo navtwo">
             <div class="container-fluid navtwo_brand">
-                <a class="navbar-brand navtwo_link" href="#">
+<!--                 <a class="navbar-brand navtwo_link" href="#">
                     <img class="nav-logo nav_logo" src="">
-                </a>
+                </a> -->
                 <button class="navbar-toggler navbar-toggler-border-color nav_collapse" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label=" Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -47,9 +52,12 @@
                         <li class="nav-item navtwo_item">
                             <a class="nav-link nav-color navtwo_link" href="fragances.html">FRAGANCIAS</a>
                         </li>
-                        <li class="nav-item navtwo_item">
+<!--                         <li class="nav-item navtwo_item">
                             <a class="nav-link nav-color navtwo_link" href="makeUp.html">MAQUILLAJE</a>
                         </li>
+                        <li class="nav-item navtwo_item">
+                            <a class="nav-link nav-color navtwo_link" href="cart.html">CARRITO</a>
+                        </li> -->
                     </ul>
                 </div>
             </div>
@@ -59,23 +67,82 @@
         <section class="prod_card">
             <h1 class="prod_rec">FRAGANCIAS FEMENINAS</h1>
             <div class="container text-center">
-                <div class="row">
-                    <div class="col col-3" id="fragances">
-                        <div class="card" style="width: 13rem;">
-                            <img src="../resources/daisy.jpg" class="card-img-top card_img" alt="...">
-                            <div class="card-body card_product">
-                                <h5 class="card-title card_brand">Marc Jacobs</h5>
-                                <p class="card-text card_name">DAISY EDP - 80 ML</p>
-                                <p class="card-text card_price">$28000</p>
-                                <button class="btn card_btn" id="btnCart">AÑADIR AL CARRITO</button>
+                <div class="row" id="fragances">
+
+                    <template id="template-card">
+                        <div class="col col-3" id="fragances">
+                            <div class="card" style="width: 13rem;">
+                                <img src="../resources/daisy.jpg" class="card-img-top card_img" alt="...">
+                                <div class="card-body card_product">
+                                    <h5 class="card-title card_brand"></h5>
+                                    <p class="card-text card_name"></p>
+                                    <p class="card-text card_price"></p>
+                                    <button class="btn card_btn" id="btnCart">Agregar al carrito</button>
+                                </div>
                             </div>
                         </div>
-                    </div>
+                    </template>
+                </div>
             </div>
         </section>
-        <section class="see_cart">
+        <div class="my-5">
+            <h4>Carrito de compras</h4>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th scope="col">#</th>
+                  <th scope="col">Item</th>
+                  <th scope="col"> Descripcion</th>
+                  <th scope="col">Cantidad</th>
+                  <th scope="col">Acción</th>
+                  <th scope="col">Total</th>
+                </tr>
+              </thead>
+              <tbody id="items">
+      
+              </tbody>
+              <tfoot>
+                <tr id="footer-carrito">
+                    <th scope="row" colspan="5">Carrito vacío - comience a comprar!</th>
+                </tr>
+              </tfoot>
+            </table>
+          </div>
+        </div>
+      
+        <template id="template-footer">
+            <th scope="row" colspan="2">Total productos</th>
+            <td> </td>
+            <td class="foot_amount">10</td>
+            <td>
+                <button class="btn btn-danger btn-sm" id="empty-cart">
+                    vaciar todo
+                </button>
+            </td>
+            <td class="font-weight-bold foot_total">$ <span>5000</span></td>
+        </template>
+      
+        <template id="template-cart">
+          <tr>
+            <th scope="row" class="cart_id">1</th>
+            <td class="cart_brand">Lancome</td>
+            <td class="cart_name">Idole</td>
+            <td class="cart_amount">1</td>
+            <td>
+                <button class="btn btn-info btn-sm">
+                    +
+                </button>
+                <button class="btn btn-danger btn-sm">
+                    -
+                </button>
+            </td>
+            <td class="cart_price">$23000</td>
+          </tr>
+        </template>
+
+<!--         <section class="see_cart">
             <a href="cart.html"><button class="btn card_btn see_cart" id="btnSeeCart">VER CARRITO</button></a>
-        </section>
+        </section> -->
     </main>
     <footer>
 
